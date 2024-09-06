@@ -5,6 +5,6 @@
   "main": "index.js",
   "dependencies": {
     "humanize-duration": "^3.24.0",
-    "telegraf": "^3.38.0"
+    "telegraf": "^4.8.0"
   }
 }
